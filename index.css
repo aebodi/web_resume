@@ -1,9 +1,3 @@
-/*
- * AI use: Claude (Opus 5) generated the initial stylesheet, including the screen layout and
- * the @media print block. Colors, spacing, and type scale were adjusted by hand after
- * checking the printed output against the PDF resume.
- */
-
 /* Lewis University red is used sparingly as the single accent color. */
 :root {
 	--color-accent: #c8102e;
